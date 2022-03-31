@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-app-react/static/css/main.a6a7c061.css",
+    "main.js": "/weather-app-react/static/js/main.ba2b286a.js",
+    "static/media/LilitaOne-Regular.ttf": "/weather-app-react/static/media/LilitaOne-Regular.e970d047065ed950bb8c.ttf",
+    "index.html": "/weather-app-react/index.html",
+    "main.a6a7c061.css.map": "/weather-app-react/static/css/main.a6a7c061.css.map",
+    "main.ba2b286a.js.map": "/weather-app-react/static/js/main.ba2b286a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a7c061.css",
+    "static/js/main.ba2b286a.js"
+  ]
+}
