@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DisplayWeather.tsx renders DisplayWeather without crashing 1`] = `
+<div>
+  <div
+    class="weatherCont"
+  >
+    <div
+      class="headerCont text-center col-md-2 offset-md-5"
+      mt="2"
+    >
+      <div
+        class="card"
+      >
+        <div
+          class="card-body"
+        >
+          <div
+            class="text-muted card-title h5"
+          >
+            Mar 31 - Apr 6 2022
+          </div>
+          <h1
+            class="text-light"
+          >
+            38
+            °
+          </h1>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col-md-6 offset-md-3"
+      mt="2"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="p-0 text-center col"
+        >
+          <span
+            class="text-muted"
+          />
+          <h2
+            class="text-light"
+          >
+            0
+            °
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

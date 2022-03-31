@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DayCard.tsx renders DayCard without crashing 1`] = `
+<div>
+  <div
+    class="p-0 text-center col"
+  >
+    <span
+      class="text-muted"
+    >
+      Wednesday
+    </span>
+    <h2
+      class="text-light"
+    >
+      12
+      °
+    </h2>
+  </div>
+</div>
+`;

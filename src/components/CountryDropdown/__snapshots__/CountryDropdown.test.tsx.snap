@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountryDropdown.tsx renders DisplayWeather without crashing 1`] = `
+<div>
+  <select
+    class="text-muted form-select"
+    name="countrycodes"
+  >
+    <option
+      value="rs"
+    >
+      rs
+    </option>
+    <option
+      value="ru"
+    >
+      ru
+    </option>
+    <option
+      value="gr"
+    >
+      gr
+    </option>
+  </select>
+</div>
+`;
